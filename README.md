@@ -1,25 +1,15 @@
-# DH140
+# DH140 Final Project
 
-## Potential project ideas
+## Topic: Billionaires
 
-### Income inequality
-https://www.pewresearch.org/social-trends/2020/01/09/trends-in-income-and-wealth-inequality/
-- This article interests me because it shows the trends in income inequality over the last few decades, which provides insight into whether the gap is converging.
-![image.png](attachment:image.png)
-- I would like to make this data visualization in Python because it clearly shows the difference in trend of income inequality between the United States and Europe.
+For my project, I will be analyzing information on billionaires worldwide. The dataset I will be using is from the CorGIS Dataset Project, and contains information on over 2,000 billionaires from various countries, along with details about their source of wealth, net worth, and industry.
 
-### Other potential project topics
-- Income inequality
-- Social media effects on mental health
-- Covid-19 effects on society
-Articles:
-- https://www.nytimes.com/2022/02/02/opinion/inequality-wealth-pandemic.html
-- https://www.mga.edu/news/2022/06/is-social-media-bad-for-your-mental-health.php
-- https://www.un.org/development/desa/dspd/everyone-included-covid-19.html
-- https://www.geeksforgeeks.org/what-is-web-scraping-and-how-to-use-it/
+My motivation for this project is to gain a deeper understanding of how wealth is distributed globally, and to explore the factors that contribute to the wealth of billionaires. Additionally, I am interested in examining patterns and trends in data on billionaires to identify commonalities and differences between billionaires from different demographics. Using this information, I can showcase the factors that are more likely to lead towards financial success and ways to make the distribution of wealth more equitable.
 
-### Potential datasets
-| Dataset       | Description           | Link  |
-| ------------- |:-------------:| -----:|
-| KNIGHT-NEWHOUSE College Athletics Database | The dataset reveals how money is allocated towards UCLA sports and I can investigate whether this breakdown of funding is justified. | https://knightnewhousedata.org/fbs/pac-12/university-of-california-los-angeles |
-| Census Income Data Set | The dataset gives a list of attributes and income, which can then be investigated in whether certain attributes are more or less likely to attain certain levels of income      |  https://archive.ics.uci.edu/ml/datasets/Census+Income |
+There are several questions I aim to answer in this project:
+
+- What are the top industries that billionaires are involved in, and how has this changed over time?
+- How does the net worth of billionaires vary by industry, country, and gender?
+- Are there any notable patterns or trends in the data that can help explain the distribution of wealth among billionaires?
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hubert94536/DH140/HEAD)
