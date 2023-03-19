@@ -12,4 +12,8 @@ There are several questions I aim to answer in this project:
 - How does the net worth of billionaires vary by industry, country, and gender?
 - Are there any notable patterns or trends in the data that can help explain the distribution of wealth among billionaires?
 
+This repository contains the Jupyter notebook for which all analysis was done as well as a requirements.txt file to install the necessary packages.
+
+Blog Site: https://hubert94536.github.io/Dh140Quarto/
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hubert94536/DH140/HEAD)
